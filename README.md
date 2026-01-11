@@ -7,8 +7,8 @@
 *Transforming ideas into elegant, performant web experiences*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-g-rathod/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilrathod4508@gmail.com)
 
 </div>
 
@@ -21,7 +21,7 @@
 - 👨‍💻 **Frontend Developer** specializing in React & JavaScript
 - 🌍 Based in **Jalna, India
 - 🔭 Currently working on **building scalable React applications**
-- 🌱 Learning **Three.js, TypeScript, Web Performance**
+- 🌱 Learning **JavaScript, React.js, Web Performance**
 - 💡 Interested in **UI/UX Design, Clean Code, Open Source**
 - ⚡ Fun fact: **I speak fluent JavaScript and broken English** ☕
 - 💬 Ask me about **React, JavaScript, or frontend architecture**
@@ -55,10 +55,16 @@ I'm a frontend developer who believes great user experiences are built on the in
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 
+
 ### Styling & Design
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 
 </td>
@@ -73,10 +79,10 @@ I'm a frontend developer who believes great user experiences are built on the in
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
 ### Currently Exploring
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
+
 
 </td>
 </tr>
@@ -90,63 +96,74 @@ I'm a frontend developer who believes great user experiences are built on the in
 <tr>
 <td width="50%">
 
-### 🎯 E-Commerce Platform
+### 🚖 Cab Booking Platform (Raahi)
 ![Project Status](https://img.shields.io/badge/Status-Live-success?style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-A modern e-commerce solution with real-time inventory management and seamless payment integration.
+Raahi simplifies daily travel with instant cab bookings, real-time tracking, and safe, smooth payments.
 
 **Key Features:**
-- ⚡ Lightning-fast performance (95+ Lighthouse score)
-- 🎨 Fully responsive design
-- 🔒 Secure authentication & payments
-- ♿ WCAG 2.1 AA accessibility compliant
+- ⚡ Lightning-fast performance 
+- 🔒 Secure authentication 
+- 📱 Fully responsive design
+- 📍 Real-time ride tracking
 
-[View Project →](https://github.com/yourusername/project)
+[View Project →](https://fintrack-app-alpha.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🎨 Component Library
-![Project Status](https://img.shields.io/badge/Status-Maintained-blue?style=flat)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS_Modules-000000?style=flat&logo=css-modules&logoColor=white)
+### 💸 Money Tracking App (FinTrack)
+![Project Status](https://img.shields.io/badge/Status-Live-success?style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-Comprehensive design system with 50+ reusable components built for scalability and consistency.
+FinTrack helps users track income and expenses, set savings goals, and make smarter money decisions.
 
 **Key Features:**
-- 📚 Fully documented in Storybook
-- 🎯 TypeScript support with full type safety
-- 🌗 Dark/light theme support
-- 📦 Tree-shakeable for optimal bundle size
+- 💰 Expense & Income Tracking
+- 🏆 Savings Goal Management
+- 📈 Visual Financial Insights
+- 📱 Responsive & Intuitive UI
 
-[View Project →](https://github.com/yourusername/project)
+[View Project →](https://fintrack-app-alpha.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚀 Portfolio & Blog
-![Project Status](https://img.shields.io/badge/Status-Live-success?style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+### 🚀 Personal Portfolio 
+![Project Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
-Personal portfolio with integrated blog featuring smooth animations and optimized performance.
+
+Turning ideas into scalable, user-focused web applications while crafting interactive web experiences with modern technologies.
 
 **Key Features:**
-- 🎬 Smooth page transitions with Framer Motion
-- 📝 MDX-powered blog with syntax highlighting
+- 🎬 Smooth page transitions with GSAP
 - 🖼️ Optimized image loading
-- 🌐 Internationalization support
+- 📊 Analytics dashboard for rides and payments
+- ⚡ Performance optimized with GSAP and React
 
 [View Project →](https://github.com/yourusername/project)
 
 </td>
 <td width="50%">
 
-### 📊 Analytics Dashboard
+<!-- ### 📊 Analytics Dashboard
 ![Project Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![D3](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
@@ -159,7 +176,7 @@ Real-time analytics dashboard with interactive data visualizations and customiza
 - 💾 Custom dashboard configurations
 - 📱 Responsive and mobile-friendly
 
-[View Project →](https://github.com/yourusername/project)
+[View Project →](https://github.com/yourusername/project) -->
 
 </td>
 </tr>
@@ -167,7 +184,7 @@ Real-time analytics dashboard with interactive data visualizations and customiza
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -180,7 +197,7 @@ Real-time analytics dashboard with interactive data visualizations and customiza
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-</div>
+</div> -->
 
 ---
 
@@ -189,26 +206,24 @@ Real-time analytics dashboard with interactive data visualizations and customiza
 <img align="right" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 **📚 Learning**
-- Advanced TypeScript Patterns
+- GSAP in depth
+- Python Basics and RestAPIs
 - Web Performance Optimization  
-- Three.js & 3D Web Graphics
-- Technical Writing
+- Revising and polishing skills
 
 **🔨 Building**
-- Scalable design system for enterprise applications
-- Interactive 3D portfolio experience
-- Contributing to React ecosystem
+- Interactive personal portfolio
+
 
 **📖 Reading**
 - Clean Architecture
 - Refactoring UI
 - You Don't Know JS Series
 
-**🎯 2025 Goals**
+**🎯 2026 Goals**
 - ✅ Contribute to 5+ open source projects
-- ✅ Launch personal SaaS product
-- ✅ Write 12 technical blog posts
-- ✅ Mentor junior developers
+- ✅ Launch personal portfolio
+- ✅ Become SDE developers
 
 ---
 
@@ -218,11 +233,11 @@ Real-time analytics dashboard with interactive data visualizations and customiza
 
 I'm always interested in collaborating on exciting projects or discussing the latest in frontend development. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-g-rathod/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilrathod4508@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NikhilRath11121)
+
 
 </div>
 
@@ -232,8 +247,8 @@ I'm always interested in collaborating on exciting projects or discussing the la
   
 ### 💭 *"First, solve the problem. Then, write the code."* - Nikhil Rathod
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-58A6FF?style=flat)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-58A6FF?style=flat) -->
 
 **⭐️ From Nikhil4508.(https://github.com/Nikhil4508)**
 
