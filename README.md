@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Workshop
 
-### I'm [Your Name] - Frontend Developer & UI Enthusiast
+### I'm Nikhil Rathod - Frontend Developer & UI Enthusiast
 
 *Transforming ideas into elegant, performant web experiences*
 
@@ -18,13 +18,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 **Frontend Developer** specializing in React & TypeScript
-- 🌍 Based in **Your City, Country**
+- 👨‍💻 **Frontend Developer** specializing in React & JavaScript
+- 🌍 Based in **Jalna, India
 - 🔭 Currently working on **building scalable React applications**
-- 🌱 Learning **Three.js, Advanced TypeScript, Web Performance**
+- 🌱 Learning **Three.js, TypeScript, Web Performance**
 - 💡 Interested in **UI/UX Design, Clean Code, Open Source**
 - ⚡ Fun fact: **I speak fluent JavaScript and broken English** ☕
-- 💬 Ask me about **React, TypeScript, or frontend architecture**
+- 💬 Ask me about **React, JavaScript, or frontend architecture**
 
 <details>
 <summary>📖 More about my journey</summary>
@@ -50,29 +50,27 @@ I'm a frontend developer who believes great user experiences are built on the in
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
 
 ### Styling & Design
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 </td>
 <td valign="top" width="50%">
 
 ### Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
 ### Currently Exploring
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
@@ -232,11 +230,11 @@ I'm always interested in collaborating on exciting projects or discussing the la
 
 <div align="center">
   
-### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
+### 💭 *"First, solve the problem. Then, write the code."* - Nikhil Rathod
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-58A6FF?style=flat)
 
-**⭐️ From [yourusername](https://github.com/yourusername)**
+**⭐️ From Nikhil4508.(https://github.com/Nikhil4508)**
 
 </div>
