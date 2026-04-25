@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 👨‍💻 **Frontend Developer** specializing in React & JavaScript
-- 🌍 Based in **Jalna, India
+- 🌍 Based in **Jalna, India**
 - 🔭 Currently working on **building scalable React applications**
 - 🌱 Learning **JavaScript, React.js, Web Performance**
 - 💡 Interested in **UI/UX Design, Clean Code, Open Source**
@@ -54,18 +54,18 @@ I'm a frontend developer who believes great user experiences are built on the in
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-
-
 ### Styling & Design
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
-
 
 </td>
 <td valign="top" width="50%">
@@ -80,9 +80,6 @@ I'm a frontend developer who believes great user experiences are built on the in
 
 ### Currently Exploring
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
-
 
 </td>
 </tr>
@@ -90,7 +87,7 @@ I'm a frontend developer who believes great user experiences are built on the in
 
 ---
 
-## 💼 Featured Projects
+<!-- ## 💼 Featured Projects
 
 <table>
 <tr>
@@ -149,7 +146,6 @@ FinTrack helps users track income and expenses, set savings goals, and make smar
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
-
 Turning ideas into scalable, user-focused web applications while crafting interactive web experiences with modern technologies.
 
 **Key Features:**
@@ -162,42 +158,11 @@ Turning ideas into scalable, user-focused web applications while crafting intera
 
 </td>
 <td width="50%">
-
-<!-- ### 📊 Analytics Dashboard
-![Project Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![D3](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
-
-Real-time analytics dashboard with interactive data visualizations and customizable widgets.
-
-**Key Features:**
-- 📈 Interactive charts with D3.js
-- 🔄 Real-time data updates via WebSocket
-- 💾 Custom dashboard configurations
-- 📱 Responsive and mobile-friendly
-
-[View Project →](https://github.com/yourusername/project) -->
-
 </td>
 </tr>
 </table>
 
----
-
-<!-- ## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div> -->
+-->
 
 ---
 
@@ -247,9 +212,6 @@ I'm always interested in collaborating on exciting projects or discussing the la
   
 ### 💭 *"First, solve the problem. Then, write the code."* - Nikhil Rathod
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-58A6FF?style=flat) -->
-
-**⭐️ From Nikhil4508.(https://github.com/Nikhil4508)**
+**⭐️ From [Nikhil4508](https://github.com/Nikhil4508)**
 
 </div>
