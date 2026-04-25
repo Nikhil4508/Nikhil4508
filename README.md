@@ -2,9 +2,9 @@
 
 # 👋 Welcome to My Digital Workshop
 
-### I'm Nikhil Rathod - Frontend Developer & UI Enthusiast
+### I'm Nikhil Rathod - MERN Stack Developer & UI Enthusiast
 
-*Transforming ideas into elegant, performant web experiences*
+*Building full-stack web experiences — from pixel-perfect UIs to robust REST APIs*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-g-rathod/)
@@ -18,25 +18,27 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 **Web Developer** specializing in React ,JavaScript & backend 
+- 👨‍💻 **MERN Stack Developer** specializing in MongoDB, Express.js, React & Node.js
 - 🌍 Based in **Jalna, India**
-- 🔭 Currently working on **building scalable React applications**
+- 🔭 Currently working on **building scalable full-stack applications**
 - 💡 Interested in **UI/UX Design, Clean Code, Open Source**
 - ⚡ Fun fact: **I speak fluent JavaScript and broken English** ☕
-- 💬 Ask me about **React, JavaScript, or frontend architecture**
+- 💬 Ask me about **React, Node.js, MongoDB, or full-stack architecture**
 
 <details>
 <summary>📖 More about my journey</summary>
 <br>
-I'm a web developer who believes great digital experiences are built at the intersection of beautiful design and robust engineering. From crafting pixel-perfect UIs to building reliable backend APIs, I enjoy working across the full stack to bring ideas to life — end to end.
+I'm a MERN Stack Developer who believes great digital experiences are built at the intersection of beautiful design and robust engineering. From crafting pixel-perfect UIs to building reliable backend APIs, I enjoy working across the full stack — end to end — to bring ideas to life.
  
 **What drives me:**
 - Building complete, production-ready web applications from frontend to backend
 - Writing clean, maintainable code that scales with the product
+- Designing RESTful APIs and efficient database schemas that power real features
 - Solving real-world problems with thoughtful, user-first solutions
 - Staying curious and continuously leveling up across the stack
 - Contributing to the developer community
 </details>
+
 ---
 
 ## 🚀 Technical Skills
@@ -45,23 +47,28 @@ I'm a web developer who believes great digital experiences are built at the inte
 <tr>
 <td valign="top" width="50%">
 
-### Frontend Development
+### Frontend (React Ecosystem)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ### Styling & Design
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### Backend Development
+### Backend (Node.js Ecosystem)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 ### Languages
@@ -74,97 +81,20 @@ I'm a web developer who believes great digital experiences are built at the inte
 ### Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat&logo=react&logoColor=white)
 
-
 </td>
 </tr>
 </table>
-
----
-
-<!-- ## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚖 Cab Booking Platform (Raahi)
-![Project Status](https://img.shields.io/badge/Status-Live-success?style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-Raahi simplifies daily travel with instant cab bookings, real-time tracking, and safe, smooth payments.
-
-**Key Features:**
-- ⚡ Lightning-fast performance 
-- 🔒 Secure authentication 
-- 📱 Fully responsive design
-- 📍 Real-time ride tracking
-
-[View Project →](https://fintrack-app-alpha.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 💸 Money Tracking App (FinTrack)
-![Project Status](https://img.shields.io/badge/Status-Live-success?style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-FinTrack helps users track income and expenses, set savings goals, and make smarter money decisions.
-
-**Key Features:**
-- 💰 Expense & Income Tracking
-- 🏆 Savings Goal Management
-- 📈 Visual Financial Insights
-- 📱 Responsive & Intuitive UI
-
-[View Project →](https://fintrack-app-alpha.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚀 Personal Portfolio 
-![Project Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-
-Turning ideas into scalable, user-focused web applications while crafting interactive web experiences with modern technologies.
-
-**Key Features:**
-- 🎬 Smooth page transitions with GSAP
-- 🖼️ Optimized image loading
-- 📊 Analytics dashboard for rides and payments
-- ⚡ Performance optimized with GSAP and React
-
-[View Project →](https://github.com/yourusername/project)
-
-</td>
-<td width="50%">
-</td>
-</tr>
-</table>
-
--->
 
 ---
 
@@ -173,12 +103,13 @@ Turning ideas into scalable, user-focused web applications while crafting intera
 <img align="right" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 **📚 Learning**
-- Web Performance Optimization  
-- Revising and polishing skills
+- Advanced Node.js & Express patterns
+- MongoDB aggregation pipelines
+- Web Performance Optimization
 
 **🔨 Building**
-- Interactive personal portfolio
-
+- Full-stack personal portfolio
+- MERN-based project showcases
 
 **📖 Reading**
 - Clean Architecture
@@ -188,7 +119,7 @@ Turning ideas into scalable, user-focused web applications while crafting intera
 **🎯 2026 Goals**
 - ✅ Contribute to 5+ open source projects
 - ✅ Launch personal portfolio
-- ✅ Become SDE developers
+- ✅ Land a MERN Stack developer role
 
 ---
 
@@ -196,13 +127,12 @@ Turning ideas into scalable, user-focused web applications while crafting intera
 
 <div align="center">
 
-I'm always interested in collaborating on exciting projects or discussing the latest in frontend development. Feel free to reach out!
+I'm always interested in collaborating on exciting full-stack projects or discussing the latest in web development. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-g-rathod/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilrathod4508@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
 
 </div>
 
