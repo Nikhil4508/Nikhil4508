@@ -18,10 +18,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 **Frontend Developer** specializing in React & JavaScript
+- 👨‍💻 **Web Developer** specializing in React ,JavaScript & backend 
 - 🌍 Based in **Jalna, India**
 - 🔭 Currently working on **building scalable React applications**
-- 🌱 Learning **JavaScript, React.js, Web Performance**
 - 💡 Interested in **UI/UX Design, Clean Code, Open Source**
 - ⚡ Fun fact: **I speak fluent JavaScript and broken English** ☕
 - 💬 Ask me about **React, JavaScript, or frontend architecture**
