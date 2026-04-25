@@ -78,8 +78,6 @@ I'm a frontend developer who believes great user experiences are built on the in
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
-### Currently Exploring
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
 
 </td>
 </tr>
@@ -171,8 +169,6 @@ Turning ideas into scalable, user-focused web applications while crafting intera
 <img align="right" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 **📚 Learning**
-- GSAP in depth
-- Python Basics and RestAPIs
 - Web Performance Optimization  
 - Revising and polishing skills
 
