@@ -28,17 +28,15 @@
 <details>
 <summary>📖 More about my journey</summary>
 <br>
-
-I'm a frontend developer who believes great user experiences are built on the intersection of beautiful design and clean code. With a strong foundation in modern JavaScript frameworks and a keen eye for detail, I strive to create interfaces that users love to interact with.
-
+I'm a web developer who believes great digital experiences are built at the intersection of beautiful design and robust engineering. From crafting pixel-perfect UIs to building reliable backend APIs, I enjoy working across the full stack to bring ideas to life — end to end.
+ 
 **What drives me:**
-- Writing code that others can understand and maintain
-- Solving complex problems with elegant solutions  
-- Staying curious and continuously learning
+- Building complete, production-ready web applications from frontend to backend
+- Writing clean, maintainable code that scales with the product
+- Solving real-world problems with thoughtful, user-first solutions
+- Staying curious and continuously leveling up across the stack
 - Contributing to the developer community
-
 </details>
-
 ---
 
 ## 🚀 Technical Skills
